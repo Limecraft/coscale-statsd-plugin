@@ -1,0 +1,11 @@
+{
+  "name": "statsd-coscale-backend",
+  "description": "A backend for StatsD to send stats to coscale api",
+  "main": "lib/CoScale.js",
+  "version": "1.0.0",
+  "scripts": {
+    "test": ""
+  },
+  "author": "CoScale",
+  "license": "BSD"
+}
