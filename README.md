@@ -1,0 +1,1 @@
+# coscale-statsd-plugin
