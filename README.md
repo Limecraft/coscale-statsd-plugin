@@ -1,3 +1,3 @@
 # StatsD plugin
 
-## [Go to documentation](http://docs.coscale.com/installation/custom-metrics/statsd/index/)
+## [Go to documentation](http://docs.coscale.com/custom-metrics/statsd/index/)
